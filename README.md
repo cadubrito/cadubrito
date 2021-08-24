@@ -1,5 +1,5 @@
 <p align="center"><img width="55%" height='300px' src="caduzera.gif" alt="lang image here" /></p>  
-<h1 align="center"> <img src="https://media.giphy.com/media/nDg8O2z3Rmk6Y/source.gif" width="30px"> Olá Dev, este é meu novo repositório criado em 2021 <img src="https://media.giphy.com/media/nDg8O2z3Rmk6Y/source.gif" width="30px">
+<h1 align="center"> <img src="https://media.giphy.com/media/nDg8O2z3Rmk6Y/source.gif" width="30px"> Olá Dev, Seja muito bem vindo! <img src="https://media.giphy.com/media/nDg8O2z3Rmk6Y/source.gif" width="30px">
 </h1>  
 <h3> Eu me chamo Clodoaldo Neto</h3><p align="right"><img src="https://komarev.com/ghpvc/?username=Clodoaldo-Neto&color=blue" alt="Clodoaldo Neto" /></p>  
 
