@@ -37,4 +37,4 @@
   
 Sobre meus repositórios públicos | Sobre Linguagens e utilidades
 :---------: | :-------:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clodoaldo-Neto&show_icons=true&theme=default&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clodoaldo-Neto&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadubrito&show_icons=true&theme=default&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadubrito&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
